@@ -18,16 +18,13 @@ https://addons.mozilla.org/ja/firefox/addon/tampermonkey/
 firefox版であればスマートフォンからも使用可能。
 
 
-以下のボタンからスクリプトを開くと、Tampermonkeyのインストール画面を表示できます。
-
-"▶ Tampermonkeyでインストール" (https://raw.githubusercontent.com/4STRA1/pommu-r18view/main/pommu-r18view.user.js)
+tampermonkyを起動し、ユーティリティ→URLからインポートで以下のURLを入力
+ https://raw.githubusercontent.com/4STRA1/pommu-r18view/main/pommu-r18view.user.js
 
 インストール画面が表示されたら「インストール」を選択してください。
 
-Raw URL
 
-直接URLを開いてインストールすることもできます。
-
+また、js本体のプログラムコードをコピーして新規ユーザースクリプトから保存することでもインストールできます。
 https://raw.githubusercontent.com/4STRA1/pommu-r18view/main/pommu-r18view.user.js
 
 機能
